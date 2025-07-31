@@ -28,16 +28,16 @@ A data analysis project examining 2023 US crop production patterns using machine
   - Large (>100k ha): 33.7% of crops
   - Medium (10k-100k ha): 40.4% of crops
   - Small (<10k ha): 25.9% of crops
-
-![](./final-project/crop%20category.png)
+![](./crop%20category.PNG)
+![](./crop%20category1.PNG)
 
 ### Machine Learning Insights
 - Optimal clustering identified 3 production groups:
   1. Low-Production (Specialty crops like ginger, taro)
   2. Medium-Production (Commercial crops like blueberries)
   3. High-Production (Staple crops like maize)
-
-![Cluster Visualization](screenshots/cluster_visualization.png)
+![Cluster Visualization](./implementing%20cluster.PNG)
+![Cluster Visualization](./number%20of%20crops%20per%20stru.PNG)
 
 ## 🔧 Technical Implementation
 
@@ -61,7 +61,7 @@ A data analysis project examining 2023 US crop production patterns using machine
   - Random Forest Classifier achieved 100% accuracy
   - SHAP values for model interpretability
 
-![SHAP Analysis](screenshots/shap_analysis.png)
+![SHAP Analysis](./innovation.PNG)
 
 ## 📊 Power BI Integration
 
@@ -70,7 +70,7 @@ Prepared dataset with calculated metrics for visualization:
 - Value percentages
 - Size categories
 
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](./powerbi_dashboard.PNG)
 
 ## 🚀 How to Use
 
