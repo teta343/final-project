@@ -70,7 +70,7 @@ Prepared dataset with calculated metrics for visualization:
 - Value percentages
 - Size categories
 
-![Power BI Dashboard](./powerbi_dashboard.PNG)
+![Power BI Dashboard](./power%20bi.PNG)
 
 ## 🚀 How to Use
 
